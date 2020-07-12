@@ -3,6 +3,7 @@
 
 | # |       Project Name        |  Repositories  |   Live Demo  |
 |:-:|:-------------------------:|:------:|:------------:|
+|09|Type Fast|[Repo](https://github.com/SohanR/type-fast)|[Demo](https://sohanr.github.io/type-fast/)|
 |08|Flash Card|[Repo](https://github.com/SohanR/flash-card)|[Demo](https://sohanr.github.io/flash-card/)|
 |07|Currency Converter|[Repo](https://github.com/SohanR/Currency-Converter)|[Demo](https://sohanr.github.io/Currency-Converter/)|
 |06|Guess Word|[Repo](https://github.com/SohanR/guess-word)|[Demo](https://sohanr.github.io/guess-word/)|
