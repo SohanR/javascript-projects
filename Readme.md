@@ -3,7 +3,8 @@
 
 | # |       Project Name        |  Repositories  |   Live Demo  |
 |:-:|:-------------------------:|:------:|:------------:|
-|11|Random User|[Repo](https://github.com/SohanR/random-user)|[Demo](https://sohanr.github.io/random-user/)|
+|12|Random User|[Repo](https://github.com/SohanR/random-user)|[Demo](https://sohanr.github.io/random-user/)|
+|11|Clock|[Repo](https://github.com/SohanR/clock)|[Demo](https://sohanr.github.io/clock/)|
 |10|Drum Kit|[Repo](https://github.com/SohanR/Drum-kit)|[Demo](https://sohanr.github.io/Drum-kit/)|
 |09|Type Fast|[Repo](https://github.com/SohanR/type-fast)|[Demo](https://sohanr.github.io/type-fast/)|
 |08|Flash Card|[Repo](https://github.com/SohanR/flash-card)|[Demo](https://sohanr.github.io/flash-card/)|
